@@ -1,6 +1,6 @@
 package ATPS;
 
-public class Computador {
+public class Equipamento {
 	String Tipo;
 	String Acessorios;
 	String Uso;

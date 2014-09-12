@@ -5,7 +5,7 @@ public class Testador {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Computador a = new Computador();
+		Equipamento a = new Equipamento();
 		a.Tipo = "teste";
 		Software b = new Software();
 		b.Nome = "teste 2";
